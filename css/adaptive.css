@@ -125,7 +125,7 @@
       padding-right: 25px; }
     #header .inner_header .right_side_header .mnu_top > li.has_sub_menu::after {
       right: 14px; }
-    #header .inner_header .right_side_header .mnu_top > .btn_simple {
+    #header .inner_header .right_side_header > .btn_wrapper > .btn_simple {
       display: none; }
 
   .main_banner {
