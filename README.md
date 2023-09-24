@@ -11,5 +11,4 @@ A regular one-page website that utilizes:
 
 ### Preview
 
-https://github.com/commadot2/pet_quibly/assets/113248392/32b368d9-e0c6-46d6-a9f2-121796eeae2b
-
+https://github.com/commadot2/pet_pulse/assets/113248392/de74abd1-8b21-41cc-a8bc-88b337abe49f
